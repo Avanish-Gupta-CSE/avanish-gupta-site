@@ -2,7 +2,7 @@
 
 This is the DEMO portfolio website.
 
-Hi, I'm Avanish Gupta.
+Hi, I'm Avanish Gupta Gupta.
 I'm studying B.Tech(CSE) from KIIT,Bhubaneshwar.
 
 For now, I know:
