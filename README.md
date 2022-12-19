@@ -1,4 +1,4 @@
-# Demo portfolio
+# Demo portfolio website
 
 This is the DEMO portfolio website.
 
